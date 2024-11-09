@@ -1,0 +1,48 @@
+﻿Item #,SupplierUom,Supplier name,Supplier price,Supplier currency,Supplier lead time,Supplier tax code,Manufacturer,Part number
+V1000,SF,L&W Supply,10.09,USD,7,,,
+V1000,SF,United Building Materials,7.64,USD,7,,,
+V1000,SF,Lowes,11.68,USD,7,,,
+V1000,SF,Interior Supply,6.2,USD,7,,,
+V1000,SF,Menards,9.83,USD,7,,ProSTUD,1324124
+V1005,SF,United Building Materials,7.57,USD,7,,,
+V1005,SF,Lowes,10.2,USD,7,,,
+V1005,SF,L&W Supply,10.01,USD,7,,,
+V1005,SF,Menards,13.16,USD,7,,ProTRAK,1324126
+V1005,SF,Interior Supply,6.1,USD,7,,,
+V1010,EA,Menards,17.65,USD,7,,,
+V1010,EA,United Building Materials,20.4,USD,7,,,
+V1010,EA,Lowes,26.25,USD,7,,,
+V1010,EA,L&W Supply,21,USD,7,,,
+V1010,EA,Interior Supply,19.4,USD,7,,,
+V1015,EA,United Building Materials,23,USD,7,,,
+V1015,EA,Menards,18.98,USD,7,,,
+V1015,EA,Lowes,18.98,USD,7,,,
+V1015,EA,L&W Supply,27.1,USD,7,,,
+V1015,EA,Interior Supply,21.5,USD,7,,,
+V1020,EA,Menards,21,USD,7,,,
+V1020,EA,Lowes,21,USD,7,,,
+V1020,EA,Interior Supply,21.5,USD,7,,,
+V1020,EA,United Building Materials,23,USD,7,,,
+V1020,EA,L&W Supply,27.1,USD,7,,,
+V1025,BX 5LB,Lowes,2.2,USD,7,,,
+V1025,BX 5LB,United Building Materials,3.4,USD,7,,,
+V1025,BX 5LB,Menards,44.48,USD,7,,Grip Fast 25LB Box,229253125
+V1030,SF,Lowes,8.88,USD,7,,,
+V1030,SF,Interior Supply,9.6,USD,7,,,
+V1035,INCL,Lowes,2.2,USD,7,,,
+V1035,INCL,United Building Materials,3.6,USD,7,,,
+V1035,INCL,Menards,3.2,USD,7,,,
+V1040,,Interior Supply,6.55,USD,7,,,
+V1040,,United Building Materials,7,USD,7,,,
+V1040,,Lowes,7.98,USD,7,,,
+V1055,EA,Menards,9.22,USD,7,,,1311223
+V1060,LF,Menards,32.03,USD,7,,Polar Plastics,5680295
+V1065,,Menards,0.87,USD,7,,Top Shop,2491303
+V1070,,Menards,9.78,USD,7,,IPG,5642017
+V1080,,Menards,7.98,USD,7,,Tapcon,2326973
+V1085,,Menards,8.43,USD,7,,Teks,2328111
+V1090,,Menards,31.13,USD,7,,3m,5641009
+V1100,,Menards,7.96,USD,7,,3M,5641001
+V1110,EA,Interior Supply,15.36,USD,7,,,58
+V1200,LF,Ferguson Enterprises,31.1,USD,7,,NA,P40PP10
+V1075,,Menards,2.48,USD,7,,Bosch,2522610
